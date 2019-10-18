@@ -1,4 +1,10 @@
 # compass
+
+12:00-1:00 - Chester Millisock [Coding - Data Structure and Algorithms] - Tony Chung to Shadow
+1:00-2:00 - Junyu Tian [Coding - Logic and Maintainability] - VIDEO
+2:00-3:00 - Thomas Hallock [System Design - Scalability and Operational Performance]
+3:00-4:00 - Veeru Namuduri [Managerial]
+
 round 1: behavior question
 
 round 2: two sum varia‍‍‍‍‍‌‍‍‌‍‌‌‌‌‌‌2‌nt
