@@ -52,3 +52,11 @@ Onsite 3. 李口依伞酒，follow up是李口伊思林，但是只需要返回�
 Onsite 4. System Design，设计一个简单的Search功能：用户输入Address，返回周边的房屋信息，涉及到了前端的User Experience和后端的Performance等细节。不需要在白板上写，口述+讨论即可。
 
 面试体验还不错，但是自我感应该没戏。在第一轮和第三轮的聊天过程中，面试官心不在焉+东张西望，而且也很惊讶为何我作为前端要申请后端职位。
+
+
+
+1. 从google.com 点击开始，都发生了什么
+2. sable dynamodb 的运行，如何使用
+3. 
+
+meeting rooms
